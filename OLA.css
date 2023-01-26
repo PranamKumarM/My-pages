@@ -44,7 +44,7 @@ marquee{
     border: 2px solid coral;
     width: 300px; height: 150px;
     background-color: white;
-    background-image: url(../ola/bike.png);
+    background-image: url(bike.png);
     transform: scaleX(-1);
     background-position: center;
     margin-left: 55px;
@@ -60,7 +60,7 @@ marquee{
         border: 2px solid coral;
         width: 300px; height: 150px;
         background-color: white;
-        background-image: url(../ola/auto.jpg);
+        background-image: url(auto.jpg);
         background-size: 150px;
         background-repeat: no-repeat;
         background-position: center;
@@ -72,7 +72,7 @@ marquee{
         border: 2px solid coral;
         width: 300px; height: 150px;
         background-color: white;
-        background-image: url(../ola/sedan\ 1.webp);
+        background-image: url(sedan\ 1.webp);
         background-position: center;
         background-size: cover;
         margin-left: 210px;
