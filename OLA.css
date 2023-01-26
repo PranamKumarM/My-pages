@@ -44,7 +44,7 @@ marquee{
     border: 2px solid coral;
     width: 300px; height: 150px;
     background-color: white;
-    background-image: url(../ola/bike2.png);
+    background-image: url(../ola/bike.png);
     transform: scaleX(-1);
     background-position: center;
     margin-left: 55px;
@@ -60,7 +60,7 @@ marquee{
         border: 2px solid coral;
         width: 300px; height: 150px;
         background-color: white;
-        background-image: url(../ola/autp2.jpg);
+        background-image: url(../ola/auto.jpg);
         background-size: 150px;
         background-repeat: no-repeat;
         background-position: center;
