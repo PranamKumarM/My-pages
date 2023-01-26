@@ -1,0 +1,182 @@
+ header{
+    padding: 0px;
+    margin: 0%;
+    
+    width: 1521px;
+    height: 400px;
+    background-image: url(https://s3-ap-southeast-1.amazonaws.com/ola-prod-website/hero-banner.webp );
+    background-size: cover;
+
+}
+h3{
+    color: white;
+    font-style: oblique;
+    padding-top:130px;
+    padding-left: 10px;
+}
+marquee{
+    color: white;
+   background-color: black;
+   animation-duration: 10s;
+   scroll-behavior: smooth;
+}
+
+ #back2{
+    margin-top: 0px;
+    width: 1521px;
+    height: 850px;
+    background-image: url(https://wallpaperaccess.com/full/2003189.jpg);
+ }
+
+ h4{
+    
+    padding: 7px;
+        color:bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.vehicles{
+    display: flex;
+}
+
+#fig1{
+    border: 2px solid coral;
+    width: 300px; height: 150px;
+    background-color: white;
+    background-image: url(../ola/bike2.png);
+    transform: scaleX(-1);
+    background-position: center;
+    margin-left: 55px;
+    padding: 30px;
+    border-radius: 20px;
+
+    
+}
+
+#fig2{
+
+        margin-right: 20px;
+        border: 2px solid coral;
+        width: 300px; height: 150px;
+        background-color: white;
+        background-image: url(../ola/autp2.jpg);
+        background-size: 150px;
+        background-repeat: no-repeat;
+        background-position: center;
+        margin-left: 270px;
+        border-radius: 20px;
+       
+    }
+#fig3{
+        border: 2px solid coral;
+        width: 300px; height: 150px;
+        background-color: white;
+        background-image: url(../ola/sedan\ 1.webp);
+        background-position: center;
+        background-size: cover;
+        margin-left: 210px;
+        padding: 30px;
+        border-radius: 20px;
+        
+         
+    }  
+   
+#vehicleoptions{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+ display: flex;
+} 
+#vehicleoptions1{
+    padding: 10px;
+    margin-left: 140px;
+}
+#vehicleoptions2{
+    padding: 10px;
+    margin-left: 490px;
+}
+
+#vehicleoptions3{
+    padding: 10px;
+    margin-left: 480px;
+}
+#tables{
+    display: flex;
+}
+
+#table1{
+    margin-left: 50px;
+    color: burlywood;
+}
+
+#table2{
+    margin-left: 265px;
+    color:  burlywood;
+}
+#table3{
+    margin-left: 230px;
+    color:  burlywood;
+}
+#buttons{
+    padding-top: 10px;
+     
+}
+
+#button1{
+    margin-left: 160px;
+     
+    border-radius: 7px;
+     
+}
+
+#button2{
+    margin-left: 490px;
+    border-radius: 7px;
+}
+#button3{
+    margin-left: 456px;
+    border-radius: 7px;
+}
+section{
+    padding-top: 5px;
+    margin: 30px;
+}
+
+#cartype{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 90px; height: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+.flex{
+
+    margin-left: 170px;
+    margin-top: 50px;
+}
+
+.quotes{
+ color: aqua;
+ padding: 50px
+}
+
+#caption{
+ padding: 30px;
+
+}
+
+p{
+    color: aqua;
+}
+
+
+#button1:hover{
+    background-color: rgb(237, 219, 186);
+}
+#button2:hover{
+    background-color: rgb(237, 219, 186);
+}
+#button3:hover{
+    background-color: rgb(237, 219, 186);
+}
