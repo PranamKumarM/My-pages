@@ -149,6 +149,10 @@ section{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    
 }
+#cartype :hover{
+background-color: rgb(214, 205, 205);
+}
+
 
 .flex{
 
@@ -172,11 +176,11 @@ p{
 
 
 #button1:hover{
-    background-color:  rgb(214, 205, 205);
+    background-color:  rgb(150, 140, 140);
 }
 #button2:hover{
-    background-color: rgb(214, 205, 205);
+    background-color: rgb(150, 140, 140);
 }
 #button3:hover{
-    background-color:  rgb(214, 205, 205);
+    background-color:  rgb(150, 140, 140);
 }
